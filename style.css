@@ -22,13 +22,6 @@ h3 {
     padding-bottom: .1em;
 }
 
-main {
-    display:grid;
-    grid-template-columns: 80% 50%;
-    margin-top: 3em;
-
-}
-
 header {
     text-align: center;
     margin: auto 2em;
@@ -38,25 +31,8 @@ section{
     margin: auto 1em 4em 2em;
 }
 
-i {
-    margin-right: 1%;
-}
-
-p {
-    margin: .2em;
-}
-
-hr {
-    border: none;
-    background-color:bisque;
-    height: 1.5px;
-}
-
 h1,h2,h3 {
     font-weight: 110;
     margin-bottom: 0;
-}
-#mainLeft {
-    border: 1.5px bisque;
 }
 
